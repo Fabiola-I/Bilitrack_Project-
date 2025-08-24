@@ -29,5 +29,11 @@ Bluetooth-enabled for wireless data transmission, allowing real-time monitoring 
 
 Portable and affordable (~$130), making it suitable for rural clinics and low-resource settings.
 
-Impact:BiliTrack enables timely, reliable, and accessible jaundice screening, supporting Rwanda’s healthcare goals and reducing preventable neonatal deaths. It aligns with Vision 2050, promoting innovative and equitable health technologies.
-[Bilitrack schematic,PCB AND 3D.pdf](https://github.com/user-attachments/files/21952708/Bilitrack.schematic.PCB.AND.3D.pdf)
+Impact: BiliTrack enables timely, reliable, and accessible jaundice screening, supporting Rwanda’s healthcare goals and reducing preventable neonatal deaths. It aligns with Vision 2050, promoting innovative and equitable health technologies.
+[Bilitrack schematic, <img width="1296" height="466" alt="Screenshot 2025-08-24 001402" src="https://github.com/user-attachments/assets/290f0ab1-f452-49f0-b1e8-83f12d250bdc" />
+<img width="863" height="613" alt="Screenshot 2025-08-24 001337" src="https://github.com/user-attachments/assets/498b9cd5-9d5a-456e-8530-823a76c2364b" />
+PCB AND 3D.pdf](https://github.com/user-attachments/files/21952708/Bilitrack.schematic.PCB.AND.3D.pdf)
+ Here are the schematic, PCB design, and 3D view of the PCB
+<img width="1499" height="459" alt="Screenshot 2025-08-24 001424" src="https://github.com/user-attachments/assets/1be7e708-b9cd-4d88-8f18-e0dc791376b7" />
+
+ 
